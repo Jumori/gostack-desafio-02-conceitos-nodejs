@@ -32,8 +32,8 @@
     * [Instalação](#instalação)
     * [Rodando o back-end](#rodando-o-back-end-servidor)
   * [Tecnologias utilizadas](#-tecnologias-utilizadas)
-  * [Autora](#h2-idautora-80autorah2)
-  * [Licensa](#h2-idlicensa-77licensah2)
+  * [Autora](#️-autora)
+  * [Licensa](#-licença)
 <!--te-->
 
 ## 💻 Sobre o desafio
