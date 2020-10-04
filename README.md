@@ -73,9 +73,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   
 ## 🦸‍♀️ Autora
-<img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/44618499?s=400&u=691cddb486d4b665417d25d8a575e508d6ef9563&v=4" width="100px;" alt=""/>
-<br />
-<sub><b>Juliana Morikoshi</b></sub>
+<a href="https://www.linkedin.com/in/julianamorikoshi/">
+ <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/44618499?s=400&u=691cddb486d4b665417d25d8a575e508d6ef9563&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Juliana Morikoshi</b></sub></a>
+ <br />
 
 Feito com ❤️ por Juliana Morikoshi 👋 Entre em contato!
 
